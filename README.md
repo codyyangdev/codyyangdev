@@ -21,4 +21,5 @@ I specialize in building and maintaining scalable iOS and Android applications u
 I’ve worked on diverse projects, from e-commerce platforms to transportation and energy management apps. My experience spans small startups (<10 people) to large teams (+1000 people), always with a focus on delivering robust, user-centered solutions.  
 
 Let’s connect and create something impactful! 🚀  
+
 [Portfolio](https://docs.google.com/document/d/1tkiHAbOfnVz3R5FJLBnsp34JnaUBhIEX9hxkJHeV2dM)  
