@@ -1,4 +1,4 @@
-】# Greetings 🖖  
+# Greetings 🖖  
 I'm Cody Yang, a Mobile & Frontend Developer with 8+ years of experience, passionate about:  
 
 - **Mobile App Development**  
