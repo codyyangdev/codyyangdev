@@ -1,5 +1,5 @@
 # Greetings 🖖  
-I'm Cody Yang, a Mobile & Frontend Developer with 8+ years of experience, passionate about:  
+I'm Cody Yang, a Mobile & Frontend Developer with 9+ years of experience, passionate about:  
 
 - **Mobile App Development**  
 - **System Design**  
